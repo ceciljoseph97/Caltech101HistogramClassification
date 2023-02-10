@@ -2,6 +2,7 @@
 Caltech-101 contains a total of 9,146 images, split between 101 distinct object categories (faces, watches, ants, pianos, etc.) and a background category. 
 
 ### **Dataset Distribution**
+![image](https://user-images.githubusercontent.com/29672160/218158813-001c0378-5690-4887-9e5c-1f5c62240826.png)
 
 We can observe that the Faces category has the highest number of images as 870. And the lowest number of images as low as 31. Such an imbalanced dataset is one of the major reasons for the bad performance of deep neural networks and other general classifiers.
 
